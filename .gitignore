@@ -29,12 +29,9 @@ staticfiles/
 media/
 
 # Environment
-.env
 .venv
 env/
 venv/
-ENV/
-env.bak/
 venv.bak/
 
 # IDE
@@ -49,11 +46,11 @@ venv.bak/
 Thumbs.db
 
 # Docker
-*.env
+
 
 # Celery
-celerybeat-schedule
-celerybeat.pid
+# celerybeat-schedule
+# celerybeat.pid
 
 # Testing
 .pytest_cache/
