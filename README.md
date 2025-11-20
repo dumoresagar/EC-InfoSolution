@@ -342,9 +342,7 @@ docker-compose exec redis redis-cli ping
 4. Write/update tests
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 

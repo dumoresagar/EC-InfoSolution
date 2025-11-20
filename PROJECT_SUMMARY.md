@@ -117,7 +117,7 @@ music_discovery_backend/
 ├── QUICKSTART.md            # Quick start guide
 ├── CONTRIBUTING.md          # Contribution guidelines
 ├── CHANGELOG.md             # Version history
-├── LICENSE                  # MIT License
+├
 │
 ├── setup.sh                # Linux/Mac setup script
 ├── setup.bat               # Windows setup script
@@ -442,11 +442,6 @@ This project demonstrates:
 - **Issues**: GitHub Issues
 - **Spotify API**: https://developer.spotify.com/documentation/web-api
 
----
-
-## 📄 License
-
-MIT License - See `LICENSE` file
 
 ---
 

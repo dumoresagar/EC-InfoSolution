@@ -5,8 +5,7 @@
  * Includes Sizzle.js
  * https://sizzlejs.com/
  *
- * Copyright OpenJS Foundation and other contributors
- * Released under the MIT license
+
  * https://jquery.org/license
  *
  * Date: 2023-03-08T15:28Z
@@ -525,8 +524,7 @@ var Sizzle =
  * Sizzle CSS Selector Engine v2.3.10
  * https://sizzlejs.com/
  *
- * Copyright JS Foundation and other contributors
- * Released under the MIT license
+
  * https://js.foundation/
  *
  * Date: 2023-02-14

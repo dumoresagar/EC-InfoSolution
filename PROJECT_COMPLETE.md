@@ -79,7 +79,7 @@ f:\EC InfpSolution\
 │   ├── CONTRIBUTING.md                # Contribution guidelines
 │   ├── CHANGELOG.md                   # Version history & updates
 │   ├── PROJECT_SUMMARY.md             # This file - project overview
-│   └── LICENSE                        # MIT License
+│  
 │
 └── 📄 Project Information
     └── PROJECT_SUMMARY.md             # Complete project summary

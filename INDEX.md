@@ -67,9 +67,7 @@ Welcome to the Music Discovery Backend documentation! This index will help you f
    - Bug fixes
    - Planned features
 
-9. **[LICENSE](LICENSE)**
-   - MIT License
-   - Usage terms
+
 
 ---
 
@@ -246,7 +244,7 @@ Run with: `make test` or `docker-compose exec web pytest`
 │
 ├── 📦 Project Info
 │   ├── PROJECT_COMPLETE.md    (Deliverables)
-│   ├── LICENSE                (MIT License)
+│   
 │   └── INDEX.md               (This file!)
 │
 └── ⚙️ Configuration
